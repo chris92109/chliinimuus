@@ -1,3 +1,5 @@
+![Chliini Muus](AppStore/ReadmeHeader.png)
+
 # Chliini Muus
 
 An iOS app and widget that show how old someone is, counted in days. It's built for tracking a baby's or child's age. "Chliini Muus" is Swiss German for "little mouse".
